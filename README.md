@@ -1,5 +1,3 @@
-## My 2nd readme
+## My Second Read Me File
 
-# BOOM BOOM
-
-im excited to see if this works
+Testing
